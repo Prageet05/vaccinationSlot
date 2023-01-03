@@ -1,0 +1,27 @@
+{
+  "name": "vaccinationslot",
+  "version": "1.0.0",
+  "description": "Developer Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prageet05/vaccinationSlot.git"
+  },
+  "author": "Prageet Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prageet05/vaccinationSlot/issues"
+  },
+  "homepage": "https://github.com/Prageet05/vaccinationSlot#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20",
+    "os": "^0.1.2"
+  }
+}
